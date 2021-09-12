@@ -1,593 +1,593 @@
-,Tipo,Dano,Tamano,file,Tipo_id,Dano_id,Tamano_id
-0,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1185.JPG,1,1,0
-1,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1936.JPG,0,1,2
-2,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1138.JPG,1,1,0
-3,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1391.JPG,1,0,2
-4,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1392.JPG,1,1,2
-5,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1351.JPG,1,1,1
-6,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1209.JPG,1,1,0
-7,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1505.JPG,0,1,2
-8,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1220.JPG,1,0,0
-9,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0796.JPG,1,0,1
-10,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0849.JPG,1,1,1
-11,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1916.JPG,0,1,2
-12,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1905.JPG,0,1,2
-13,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1547.JPG,0,0,2
-14,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0838.JPG,1,1,2
-15,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2051.JPG,0,0,2
-16,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1167.JPG,1,0,1
-17,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2021.JPG,0,0,1
-18,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1998.JPG,0,0,2
-19,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1519.JPG,0,0,2
-20,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1459.JPG,0,0,2
-21,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1953.JPG,0,0,1
-22,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1385.JPG,1,0,2
-23,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1196.JPG,1,1,1
-24,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1831.JPG,0,1,1
-25,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1369.JPG,1,0,2
-26,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1469.JPG,0,1,2
-27,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1233.JPG,1,0,1
-28,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1219.JPG,1,1,0
-29,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1789.JPG,1,1,2
-30,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1198.JPG,1,1,0
-31,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0871.JPG,1,1,1
-32,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2026.JPG,1,0,1
-33,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1449.JPG,1,0,0
-34,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1517.JPG,1,1,0
-35,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1883.JPG,1,1,1
-36,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1486.JPG,0,0,2
-37,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0821.JPG,1,1,1
-38,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2054.JPG,1,0,1
-39,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0771.JPG,1,1,1
-40,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2025.JPG,0,0,2
-41,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1232.JPG,1,1,1
-42,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1447.JPG,1,1,0
-43,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0787.JPG,1,1,1
-44,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1980.JPG,0,0,2
-45,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1242.JPG,0,0,1
-46,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2048.JPG,1,0,1
-47,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0868.JPG,1,1,0
-48,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1366.JPG,0,0,2
-49,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1225.JPG,1,0,0
-50,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1190.JPG,1,1,1
-51,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1244.JPG,1,0,0
-52,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1364.JPG,1,0,1
-53,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0822.JPG,1,0,1
-54,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1780.JPG,0,1,2
-55,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1245.JPG,1,1,1
-56,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1972.JPG,0,0,2
-57,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1450.JPG,1,0,0
-58,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1807.JPG,1,1,0
-59,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1965.JPG,0,0,2
-60,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1499.JPG,1,0,0
-61,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1922.JPG,1,1,2
-62,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1823.JPG,0,1,2
-63,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0835.JPG,1,1,2
-64,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1872.JPG,0,1,1
-65,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2001.JPG,0,0,2
-66,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2019.JPG,0,0,2
-67,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1407.JPG,1,0,2
-68,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1187.JPG,1,1,1
-69,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2030.JPG,0,0,2
-70,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1921.JPG,0,1,2
-71,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1480.JPG,0,0,2
-72,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1959.JPG,0,0,2
-73,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0869.JPG,1,1,0
-74,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1463.JPG,1,1,0
-75,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1502.JPG,1,1,0
-76,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1476.JPG,0,0,2
-77,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1532.JPG,0,0,2
-78,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1250.JPG,1,1,1
-79,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1791.JPG,1,1,1
-80,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1852.JPG,1,1,2
-81,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1376.JPG,1,0,2
-82,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2010.JPG,0,0,1
-83,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0812.JPG,1,1,2
-84,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1214.JPG,1,1,0
-85,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1518.JPG,0,0,2
-86,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1186.JPG,1,1,1
-87,Pastusa,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/0_0_0_1964.JPG,0,0,0
-88,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1402.JPG,1,0,2
-89,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1866.JPG,0,1,2
-90,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1957.JPG,0,0,2
-91,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1180.JPG,1,1,0
-92,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1829.JPG,0,1,1
-93,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1814.JPG,0,1,1
-94,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1370.JPG,1,0,2
-95,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1204.JPG,1,1,1
-96,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1991.JPG,1,0,1
-97,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1243.JPG,1,1,0
-98,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1934.JPG,1,1,1
-99,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1497.JPG,1,0,0
-100,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1785.JPG,1,1,2
-101,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1177.JPG,1,1,0
-102,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1864.JPG,1,1,2
-103,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1534.JPG,0,0,2
-104,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1970.JPG,0,0,2
-105,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1384.JPG,1,0,1
-106,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0874.JPG,1,1,0
-107,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2009.JPG,0,0,1
-108,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1162.JPG,1,1,0
-109,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1511.JPG,0,1,2
-110,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1978.JPG,0,0,2
-111,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1457.JPG,0,0,2
-112,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0784.JPG,1,1,1
-113,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1842.JPG,1,1,1
-114,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1408.JPG,1,0,2
-115,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0848.JPG,1,1,1
-116,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1409.JPG,1,0,2
-117,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1523.JPG,0,0,2
-118,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2006.JPG,0,0,2
-119,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1426.JPG,1,0,0
-120,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1551.JPG,0,0,2
-121,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0850.JPG,1,1,2
-122,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2029.JPG,1,0,1
-123,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1381.JPG,1,1,2
-124,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1851.JPG,1,1,2
-125,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1816.JPG,0,1,1
-126,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1979.JPG,0,0,2
-127,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1827.JPG,0,1,2
-128,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1892.JPG,0,1,2
-129,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1956.JPG,0,0,2
-130,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0823.JPG,1,1,2
-131,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0829.JPG,1,1,0
-132,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0799.JPG,1,1,1
-133,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0864.JPG,1,1,2
-134,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1420.JPG,0,0,2
-135,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1535.JPG,0,1,2
-136,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1822.JPG,0,1,2
-137,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1525.JPG,0,0,2
-138,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1938.JPG,0,1,2
-139,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1143.JPG,1,1,0
-140,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0837.JPG,1,1,2
-141,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1239.JPG,0,0,1
-142,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0833.JPG,1,1,1
-143,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1838.JPG,0,1,1
-144,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0783.JPG,1,1,1
-145,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2038.JPG,0,0,2
-147,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1812.JPG,0,1,2
-148,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2002.JPG,0,0,2
-149,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1161.JPG,1,1,0
-150,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1880.JPG,0,1,2
-151,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1982.JPG,0,0,2
-152,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1211.JPG,1,1,0
-153,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1983.JPG,0,0,2
-154,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1215.JPG,1,1,1
-155,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1489.JPG,1,1,0
-156,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0813.JPG,1,1,2
-157,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1403.JPG,1,1,2
-158,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1358.JPG,1,0,1
-159,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1148.JPG,1,1,1
-160,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1925.JPG,1,1,1
-161,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0818.JPG,1,1,2
-162,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1176.JPG,1,1,0
-163,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1248.JPG,0,1,2
-164,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1898.JPG,1,1,1
-165,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1404.JPG,1,1,2
-166,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1168.JPG,1,1,1
-167,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0855.JPG,1,1,2
-168,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1365.JPG,1,0,1
-169,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1903.JPG,1,1,0
-170,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1904.JPG,1,1,0
-171,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1448.JPG,1,1,0
-172,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1796.JPG,0,1,1
-173,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1350.JPG,1,1,1
-174,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1179.JPG,1,1,1
-175,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1832.JPG,0,1,1
-176,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1907.JPG,0,1,1
-177,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1512.JPG,0,1,2
-178,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1530.JPG,0,0,2
-179,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2053.JPG,1,0,1
-180,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0809.JPG,1,1,0
-181,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1941.JPG,0,1,1
-182,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2037.JPG,0,0,2
-183,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1477.JPG,0,1,2
-184,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1825.JPG,0,1,2
-185,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1237.JPG,1,0,0
-186,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0789.JPG,1,1,1
-187,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1456.JPG,0,0,2
-188,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1781.JPG,0,1,2
-189,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1871.JPG,0,1,2
-190,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0814.JPG,1,0,1
-191,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1492.JPG,0,0,2
-192,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1786.JPG,0,1,2
-193,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1221.JPG,1,1,1
-195,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1976.JPG,0,0,2
-196,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1361.JPG,1,0,1
-197,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1207.JPG,1,1,1
-198,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1910.JPG,0,1,1
-199,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1495.JPG,1,1,0
-200,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1992.JPG,1,0,2
-201,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1958.JPG,0,0,2
-202,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1137.JPG,1,1,0
-203,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2017.JPG,0,0,2
-204,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2034.JPG,0,0,2
-205,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1948.JPG,1,1,0
-206,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1395.JPG,1,0,2
-207,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1367.JPG,0,0,2
-208,Pastusa,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/0_1_0_1806.JPG,0,1,0
-209,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0774.JPG,1,1,1
-210,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1850.JPG,0,1,1
-211,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1393.JPG,1,0,2
-212,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1154.JPG,1,1,1
-213,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1885.JPG,0,1,1
-214,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0844.JPG,1,0,1
-215,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0795.JPG,1,1,1
-216,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1357.JPG,1,0,1
-217,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1962.JPG,0,0,1
-218,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0772.JPG,1,1,1
-219,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1802.JPG,1,1,0
-220,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2016.JPG,0,0,2
-221,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2020.JPG,0,0,1
-222,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2027.JPG,1,0,1
-223,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1425.JPG,1,0,0
-224,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0801.JPG,1,1,1
-225,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0845.JPG,1,1,1
-226,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1917.JPG,0,1,1
-227,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0828.JPG,1,1,0
-228,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1507.JPG,0,1,2
-229,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0870.JPG,1,1,2
-230,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2044.JPG,0,0,2
-231,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1189.JPG,1,0,0
-232,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1234.JPG,1,0,1
-233,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0860.JPG,1,1,2
-234,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1909.JPG,0,1,2
-235,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1891.JPG,1,1,2
-236,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1531.JPG,0,0,2
-237,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1163.JPG,1,1,1
-238,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0770.JPG,1,1,1
-239,Pastusa,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/0_0_0_1963.JPG,0,0,0
-240,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1914.JPG,1,1,2
-241,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1241.JPG,0,0,1
-242,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1166.JPG,1,1,2
-243,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2041.JPG,0,0,2
-244,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1894.JPG,0,1,1
-245,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_0807.JPG,1,0,0
-246,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1912.JPG,0,1,2
-247,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1461.JPG,0,0,2
-248,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1146.JPG,1,1,1
-249,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_0786.JPG,1,0,0
-250,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1877.JPG,0,1,1
-251,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1212.JPG,1,1,0
-252,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1844.JPG,0,1,2
-253,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1882.JPG,1,1,1
-254,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1354.JPG,1,0,1
-255,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1171.JPG,1,1,0
-256,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1251.JPG,1,1,1
-257,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1960.JPG,0,0,1
-258,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1841.JPG,0,1,2
-259,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1955.JPG,0,0,1
-260,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1428.JPG,1,0,0
-261,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1394.JPG,1,0,2
-262,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0857.JPG,1,1,2
-263,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1952.JPG,0,0,1
-264,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1536.JPG,0,0,2
-265,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2003.JPG,0,0,1
-266,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1170.JPG,1,1,0
-267,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1932.JPG,0,1,1
-268,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1500.JPG,1,1,0
-269,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1205.JPG,1,0,0
-270,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0856.JPG,1,1,2
-271,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1164.JPG,1,1,0
-272,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2050.JPG,1,0,1
-273,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1429.JPG,1,0,0
-274,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0831.JPG,1,1,1
-275,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1145.JPG,1,1,1
-276,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1355.JPG,1,0,1
-277,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1945.JPG,1,1,0
-278,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1901.JPG,0,1,2
-279,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0866.JPG,1,1,1
-280,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1819.JPG,0,1,2
-281,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1224.JPG,1,0,0
-282,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1954.JPG,0,0,1
-283,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1537.JPG,1,1,1
-284,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1828.JPG,0,1,1
-285,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1194.JPG,1,1,0
-286,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1550.JPG,0,0,2
-287,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_0780.JPG,1,0,0
-288,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1539.JPG,0,0,2
-289,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1479.JPG,0,0,2
-290,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1399.JPG,1,0,2
-291,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1249.JPG,1,0,1
-292,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1974.JPG,0,0,2
-293,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1231.JPG,1,0,1
-294,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1514.JPG,0,1,2
-295,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1252.JPG,1,0,1
-296,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1792.JPG,1,1,2
-297,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1213.JPG,1,1,0
-298,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1795.JPG,0,1,2
-299,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1201.JPG,1,1,1
-300,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1999.JPG,0,0,1
-301,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1818.JPG,0,1,2
-302,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0810.JPG,1,1,1
-303,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1363.JPG,0,0,2
-304,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1817.JPG,0,1,1
-305,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1494.JPG,1,0,0
-306,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1398.JPG,1,0,1
-307,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1837.JPG,0,1,2
-308,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1229.JPG,1,1,0
-309,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2042.JPG,0,0,2
-310,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0834.JPG,1,1,1
-311,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1902.JPG,0,1,2
-312,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1520.JPG,0,0,2
-313,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0832.JPG,1,0,1
-314,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1210.JPG,1,0,0
-315,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1944.JPG,1,1,0
-316,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1482.JPG,1,0,0
-317,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1206.JPG,1,1,1
-318,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1800.JPG,1,1,1
-319,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1839.JPG,0,1,1
-320,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1390.JPG,1,1,2
-321,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1900.JPG,0,1,2
-322,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_0777.JPG,1,0,0
-323,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1356.JPG,1,0,1
-324,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1977.JPG,0,0,2
-325,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0836.JPG,1,1,2
-326,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0808.JPG,1,1,0
-327,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1788.JPG,1,1,1
-328,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1197.JPG,1,1,1
-329,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2031.JPG,0,0,2
-330,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1929.JPG,0,1,2
-331,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1524.JPG,0,0,2
-332,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1971.JPG,0,0,1
-333,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1529.JPG,0,0,2
-334,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1526.JPG,0,0,2
-335,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1994.JPG,1,0,2
-336,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2043.JPG,1,0,1
-337,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1374.JPG,1,1,2
-338,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1488.JPG,0,0,2
-339,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1967.JPG,0,0,2
-340,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1458.JPG,0,0,2
-341,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1191.JPG,1,1,1
-342,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1835.JPG,1,1,2
-343,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1228.JPG,1,1,0
-344,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1400.JPG,1,1,2
-345,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1538.JPG,1,1,1
-346,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2052.JPG,0,0,2
-347,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1884.JPG,0,1,1
-348,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1360.JPG,1,0,1
-349,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0846.JPG,1,1,1
-350,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2000.JPG,0,0,2
-351,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1865.JPG,1,1,2
-352,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1985.JPG,0,0,2
-353,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0839.JPG,1,1,1
-354,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1879.JPG,0,1,2
-355,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0851.JPG,1,1,1
-356,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1895.JPG,0,1,1
-357,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1156.JPG,1,1,1
-358,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0852.JPG,1,1,1
-359,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1899.JPG,0,1,2
-360,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1454.JPG,0,0,2
-361,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1893.JPG,0,1,2
-362,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1563.JPG,0,0,2
-363,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0826.JPG,1,1,2
-364,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0824.JPG,1,1,0
-365,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1379.JPG,1,0,1
-366,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1223.JPG,1,1,1
-367,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0800.JPG,1,1,1
-368,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1516.JPG,1,1,0
-369,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1836.JPG,1,1,2
-370,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0819.JPG,1,1,2
-371,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0825.JPG,1,1,0
-372,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1834.JPG,1,1,1
-373,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1813.JPG,0,1,1
-374,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1927.JPG,1,1,1
-375,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0804.JPG,1,1,1
-376,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1491.JPG,0,0,2
-377,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1503.JPG,1,1,0
-378,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1937.JPG,0,1,2
-379,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1995.JPG,1,0,2
-380,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1235.JPG,1,0,1
-381,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0875.JPG,1,0,1
-382,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0811.JPG,1,0,1
-383,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1195.JPG,1,1,1
-384,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1464.JPG,1,1,0
-385,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1522.JPG,0,0,2
-386,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0782.JPG,1,1,1
-387,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1193.JPG,1,1,0
-388,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1462.JPG,0,0,2
-389,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1353.JPG,1,0,1
-390,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1843.JPG,1,1,1
-391,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1805.JPG,0,1,1
-392,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1527.JPG,0,0,2
-393,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1849.JPG,0,1,2
-394,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1183.JPG,1,1,0
-395,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1467.JPG,0,0,2
-396,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1383.JPG,1,0,1
-397,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1359.JPG,1,0,1
-398,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2039.JPG,0,0,2
-399,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1794.JPG,0,1,1
-400,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2018.JPG,0,0,2
-401,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1504.JPG,1,1,0
-402,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0876.JPG,1,1,0
-403,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0805.JPG,1,1,0
-404,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0788.JPG,1,1,1
-405,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1421.JPG,0,0,2
-406,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0863.JPG,1,1,2
-407,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2049.JPG,1,0,1
-408,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1481.JPG,1,0,0
-409,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1508.JPG,0,1,2
-410,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1380.JPG,1,0,2
-411,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1217.JPG,1,1,1
-412,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1861.JPG,0,1,1
-413,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1888.JPG,0,1,2
-414,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0841.JPG,1,1,1
-415,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1875.JPG,0,1,1
-416,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1173.JPG,1,1,0
-417,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1808.JPG,1,1,2
-418,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1793.JPG,1,1,1
-419,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1246.JPG,1,0,1
-420,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1783.JPG,1,1,1
-421,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1824.JPG,0,1,1
-422,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1969.JPG,0,0,2
-423,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1378.JPG,1,1,2
-424,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1890.JPG,1,1,2
-425,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1157.JPG,1,1,1
-426,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1881.JPG,0,1,2
-427,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0803.JPG,1,1,1
-428,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1182.JPG,1,1,0
-429,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2007.JPG,0,0,2
-430,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1240.JPG,0,0,1
-431,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1873.JPG,0,1,1
-432,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1975.JPG,0,0,2
-433,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0797.JPG,1,1,1
-434,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1153.JPG,1,1,1
-435,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1455.JPG,0,0,2
-436,Pastusa,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/0_1_0_1946.JPG,0,1,0
-437,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1141.JPG,1,1,0
-438,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1911.JPG,0,1,2
-439,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1845.JPG,0,1,2
-440,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1389.JPG,1,1,2
-441,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1465.JPG,0,0,1
-442,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1804.JPG,1,1,2
-443,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1472.JPG,0,0,2
-444,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1401.JPG,1,1,2
-445,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1857.JPG,0,1,1
-446,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1371.JPG,1,0,2
-447,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1202.JPG,1,0,0
-448,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1860.JPG,0,1,1
-449,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1208.JPG,1,0,0
-450,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1478.JPG,0,1,2
-451,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1961.JPG,0,0,1
-452,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0861.JPG,1,1,2
-453,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1988.JPG,0,0,2
-454,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1446.JPG,1,1,0
-455,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0843.JPG,1,1,2
-456,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1801.JPG,1,1,2
-457,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1227.JPG,1,1,1
-458,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1493.JPG,1,0,0
-459,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0842.JPG,1,0,1
-460,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1427.JPG,1,0,0
-461,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1798.JPG,0,1,1
-462,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2035.JPG,0,0,2
-463,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0820.JPG,1,1,1
-464,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1973.JPG,0,0,1
-465,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1878.JPG,0,1,1
-466,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1188.JPG,1,1,2
-467,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1165.JPG,1,1,0
-468,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1387.JPG,1,0,1
-469,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2013.JPG,0,0,2
-470,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1826.JPG,0,1,2
-471,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1896.JPG,1,1,1
-472,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1382.JPG,1,0,2
-473,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1178.JPG,1,1,0
-474,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2008.JPG,0,0,2
-475,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1471.JPG,0,0,2
-476,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1216.JPG,1,0,0
-477,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2024.JPG,0,0,2
-478,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1515.JPG,0,1,2
-479,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1846.JPG,0,1,2
-480,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1853.JPG,0,1,2
-481,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1368.JPG,0,0,2
-482,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1799.JPG,0,1,1
-483,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0865.JPG,1,1,2
-484,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0847.JPG,1,1,1
-485,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1405.JPG,1,0,2
-486,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1889.JPG,0,1,2
-487,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0785.JPG,1,1,1
-488,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0854.JPG,1,1,2
-489,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1833.JPG,1,1,2
-490,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2046.JPG,0,0,2
-491,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1406.JPG,1,0,2
-492,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1373.JPG,1,0,1
-493,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1521.JPG,0,0,2
-494,Pastusa,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/0_1_0_1887.JPG,0,1,0
-495,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2015.JPG,0,0,1
-496,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0840.JPG,1,1,1
-497,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1490.JPG,1,1,0
-498,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0858.JPG,1,1,2
-499,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1466.JPG,0,0,2
-500,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2047.JPG,1,0,1
-501,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2004.JPG,0,0,1
-502,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1199.JPG,1,1,0
-503,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1810.JPG,0,1,2
-504,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1987.JPG,0,0,2
-505,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1174.JPG,1,1,0
-506,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2022.JPG,0,0,2
-507,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2005.JPG,0,0,2
-508,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1172.JPG,1,1,0
-509,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1874.JPG,1,1,2
-510,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1451.JPG,1,1,0
-511,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1181.JPG,1,1,0
-512,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1498.JPG,1,1,0
-513,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1876.JPG,0,1,2
-514,Pastusa,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/0_1_0_1820.JPG,0,1,0
-515,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1169.JPG,1,1,1
-516,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0798.JPG,1,1,1
-517,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1989.JPG,0,0,2
-518,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2040.JPG,0,0,2
-519,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2012.JPG,1,0,1
-520,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1218.JPG,1,1,1
-521,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0827.JPG,1,1,2
-522,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1981.JPG,0,0,2
-523,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1362.JPG,0,0,2
-524,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1386.JPG,1,1,2
-525,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0817.JPG,1,1,1
-526,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1501.JPG,1,1,0
-527,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_2014.JPG,0,0,1
-528,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1915.JPG,1,1,2
-529,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1533.JPG,0,0,2
-530,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1562.JPG,0,0,2
-531,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1993.JPG,1,0,2
-532,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1352.JPG,1,0,1
-533,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2036.JPG,0,0,2
-534,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2023.JPG,0,0,2
-535,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1947.JPG,0,1,1
-536,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_0873.JPG,1,1,2
-537,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_0806.JPG,1,1,0
-538,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1986.JPG,0,0,2
-539,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1513.JPG,0,1,2
-540,Pastusa,Buena,Grande,/content/Fotos/Imagenes/dataset/0_0_1_1951.JPG,0,0,1
-541,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1388.JPG,1,0,1
-542,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1868.JPG,0,1,2
-543,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1184.JPG,1,1,0
-544,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1966.JPG,1,0,1
-545,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1990.JPG,1,0,1
-546,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1840.JPG,1,1,2
-547,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0872.JPG,1,1,1
-548,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1230.JPG,1,1,0
-549,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1815.JPG,0,1,1
-550,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1506.JPG,0,1,2
-551,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1997.JPG,0,0,2
-552,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1200.JPG,1,1,1
-553,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1923.JPG,1,1,2
-554,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1396.JPG,1,0,2
-555,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1924.JPG,1,1,2
-556,R12,Buena,Mediana,/content/Fotos/Imagenes/dataset/1_0_2_1996.JPG,1,0,2
-557,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_2028.JPG,1,0,1
-558,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1863.JPG,1,1,1
-559,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1160.JPG,1,1,0
-560,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1906.JPG,0,1,1
-561,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1968.JPG,1,0,1
-562,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1158.JPG,1,1,2
-563,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_0815.JPG,1,0,1
-564,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1528.JPG,0,0,2
-565,R12,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/1_1_2_1159.JPG,1,1,2
-566,Pastusa,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/0_1_0_1886.JPG,0,1,0
-567,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1858.JPG,0,1,1
-568,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1854.JPG,0,1,2
-569,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1203.JPG,1,1,0
-570,R12,Buena,Muy Grande,/content/Fotos/Imagenes/dataset/1_0_0_1222.JPG,1,0,0
-571,Pastusa,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/0_1_1_1855.JPG,0,1,1
-572,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1830.JPG,0,1,2
-573,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1247.JPG,0,1,2
-574,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1487.JPG,0,0,2
-575,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1460.JPG,0,0,2
-576,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_0775.JPG,1,1,1
-577,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1540.JPG,0,0,2
-578,R12,Buena,Grande,/content/Fotos/Imagenes/dataset/1_0_1_1238.JPG,1,0,1
-579,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1797.JPG,0,1,2
-580,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1869.JPG,0,1,2
-581,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_1984.JPG,0,0,2
-582,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1236.JPG,1,1,1
-583,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1862.JPG,1,1,1
-584,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1139.JPG,1,1,0
-585,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2011.JPG,0,0,2
-586,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1926.JPG,1,1,1
-587,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1913.JPG,0,1,2
-588,R12,Defectuosa,Grande,/content/Fotos/Imagenes/dataset/1_1_1_1897.JPG,1,1,1
-589,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2032.JPG,0,0,2
-590,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1496.JPG,1,1,0
-591,R12,Defectuosa,Muy Grande,/content/Fotos/Imagenes/dataset/1_1_0_1144.JPG,1,1,0
-592,Pastusa,Defectuosa,Mediana,/content/Fotos/Imagenes/dataset/0_1_2_1867.JPG,0,1,2
-593,Pastusa,Buena,Mediana,/content/Fotos/Imagenes/dataset/0_0_2_2045.JPG,0,0,2
+Tipo,Dano,Tamano,Filename
+R12,Defectuosa,Muy Grande,1_1_0_1185.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1936.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1138.JPG
+R12,Buena,Mediana,1_0_2_1391.JPG
+R12,Defectuosa,Mediana,1_1_2_1392.JPG
+R12,Defectuosa,Grande,1_1_1_1351.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1209.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1505.JPG
+R12,Buena,Muy Grande,1_0_0_1220.JPG
+R12,Buena,Grande,1_0_1_0796.JPG
+R12,Defectuosa,Grande,1_1_1_0849.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1916.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1905.JPG
+Pastusa,Buena,Mediana,0_0_2_1547.JPG
+R12,Defectuosa,Mediana,1_1_2_0838.JPG
+Pastusa,Buena,Mediana,0_0_2_2051.JPG
+R12,Buena,Grande,1_0_1_1167.JPG
+Pastusa,Buena,Grande,0_0_1_2021.JPG
+Pastusa,Buena,Mediana,0_0_2_1998.JPG
+Pastusa,Buena,Mediana,0_0_2_1519.JPG
+Pastusa,Buena,Mediana,0_0_2_1459.JPG
+Pastusa,Buena,Grande,0_0_1_1953.JPG
+R12,Buena,Mediana,1_0_2_1385.JPG
+R12,Defectuosa,Grande,1_1_1_1196.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1831.JPG
+R12,Buena,Mediana,1_0_2_1369.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1469.JPG
+R12,Buena,Grande,1_0_1_1233.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1219.JPG
+R12,Defectuosa,Mediana,1_1_2_1789.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1198.JPG
+R12,Defectuosa,Grande,1_1_1_0871.JPG
+R12,Buena,Grande,1_0_1_2026.JPG
+R12,Buena,Muy Grande,1_0_0_1449.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1517.JPG
+R12,Defectuosa,Grande,1_1_1_1883.JPG
+Pastusa,Buena,Mediana,0_0_2_1486.JPG
+R12,Defectuosa,Grande,1_1_1_0821.JPG
+R12,Buena,Grande,1_0_1_2054.JPG
+R12,Defectuosa,Grande,1_1_1_0771.JPG
+Pastusa,Buena,Mediana,0_0_2_2025.JPG
+R12,Defectuosa,Grande,1_1_1_1232.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1447.JPG
+R12,Defectuosa,Grande,1_1_1_0787.JPG
+Pastusa,Buena,Mediana,0_0_2_1980.JPG
+Pastusa,Buena,Grande,0_0_1_1242.JPG
+R12,Buena,Grande,1_0_1_2048.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0868.JPG
+Pastusa,Buena,Mediana,0_0_2_1366.JPG
+R12,Buena,Muy Grande,1_0_0_1225.JPG
+R12,Defectuosa,Grande,1_1_1_1190.JPG
+R12,Buena,Muy Grande,1_0_0_1244.JPG
+R12,Buena,Grande,1_0_1_1364.JPG
+R12,Buena,Grande,1_0_1_0822.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1780.JPG
+R12,Defectuosa,Grande,1_1_1_1245.JPG
+Pastusa,Buena,Mediana,0_0_2_1972.JPG
+R12,Buena,Muy Grande,1_0_0_1450.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1807.JPG
+Pastusa,Buena,Mediana,0_0_2_1965.JPG
+R12,Buena,Muy Grande,1_0_0_1499.JPG
+R12,Defectuosa,Mediana,1_1_2_1922.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1823.JPG
+R12,Defectuosa,Mediana,1_1_2_0835.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1872.JPG
+Pastusa,Buena,Mediana,0_0_2_2001.JPG
+Pastusa,Buena,Mediana,0_0_2_2019.JPG
+R12,Buena,Mediana,1_0_2_1407.JPG
+R12,Defectuosa,Grande,1_1_1_1187.JPG
+Pastusa,Buena,Mediana,0_0_2_2030.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1921.JPG
+Pastusa,Buena,Mediana,0_0_2_1480.JPG
+Pastusa,Buena,Mediana,0_0_2_1959.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0869.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1463.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1502.JPG
+Pastusa,Buena,Mediana,0_0_2_1476.JPG
+Pastusa,Buena,Mediana,0_0_2_1532.JPG
+R12,Defectuosa,Grande,1_1_1_1250.JPG
+R12,Defectuosa,Grande,1_1_1_1791.JPG
+R12,Defectuosa,Mediana,1_1_2_1852.JPG
+R12,Buena,Mediana,1_0_2_1376.JPG
+Pastusa,Buena,Grande,0_0_1_2010.JPG
+R12,Defectuosa,Mediana,1_1_2_0812.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1214.JPG
+Pastusa,Buena,Mediana,0_0_2_1518.JPG
+R12,Defectuosa,Grande,1_1_1_1186.JPG
+Pastusa,Buena,Muy Grande,0_0_0_1964.JPG
+R12,Buena,Mediana,1_0_2_1402.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1866.JPG
+Pastusa,Buena,Mediana,0_0_2_1957.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1180.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1829.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1814.JPG
+R12,Buena,Mediana,1_0_2_1370.JPG
+R12,Defectuosa,Grande,1_1_1_1204.JPG
+R12,Buena,Grande,1_0_1_1991.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1243.JPG
+R12,Defectuosa,Grande,1_1_1_1934.JPG
+R12,Buena,Muy Grande,1_0_0_1497.JPG
+R12,Defectuosa,Mediana,1_1_2_1785.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1177.JPG
+R12,Defectuosa,Mediana,1_1_2_1864.JPG
+Pastusa,Buena,Mediana,0_0_2_1534.JPG
+Pastusa,Buena,Mediana,0_0_2_1970.JPG
+R12,Buena,Grande,1_0_1_1384.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0874.JPG
+Pastusa,Buena,Grande,0_0_1_2009.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1162.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1511.JPG
+Pastusa,Buena,Mediana,0_0_2_1978.JPG
+Pastusa,Buena,Mediana,0_0_2_1457.JPG
+R12,Defectuosa,Grande,1_1_1_0784.JPG
+R12,Defectuosa,Grande,1_1_1_1842.JPG
+R12,Buena,Mediana,1_0_2_1408.JPG
+R12,Defectuosa,Grande,1_1_1_0848.JPG
+R12,Buena,Mediana,1_0_2_1409.JPG
+Pastusa,Buena,Mediana,0_0_2_1523.JPG
+Pastusa,Buena,Mediana,0_0_2_2006.JPG
+R12,Buena,Muy Grande,1_0_0_1426.JPG
+Pastusa,Buena,Mediana,0_0_2_1551.JPG
+R12,Defectuosa,Mediana,1_1_2_0850.JPG
+R12,Buena,Grande,1_0_1_2029.JPG
+R12,Defectuosa,Mediana,1_1_2_1381.JPG
+R12,Defectuosa,Mediana,1_1_2_1851.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1816.JPG
+Pastusa,Buena,Mediana,0_0_2_1979.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1827.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1892.JPG
+Pastusa,Buena,Mediana,0_0_2_1956.JPG
+R12,Defectuosa,Mediana,1_1_2_0823.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0829.JPG
+R12,Defectuosa,Grande,1_1_1_0799.JPG
+R12,Defectuosa,Mediana,1_1_2_0864.JPG
+Pastusa,Buena,Mediana,0_0_2_1420.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1535.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1822.JPG
+Pastusa,Buena,Mediana,0_0_2_1525.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1938.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1143.JPG
+R12,Defectuosa,Mediana,1_1_2_0837.JPG
+Pastusa,Buena,Grande,0_0_1_1239.JPG
+R12,Defectuosa,Grande,1_1_1_0833.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1838.JPG
+R12,Defectuosa,Grande,1_1_1_0783.JPG
+Pastusa,Buena,Mediana,0_0_2_2038.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1812.JPG
+Pastusa,Buena,Mediana,0_0_2_2002.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1161.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1880.JPG
+Pastusa,Buena,Mediana,0_0_2_1982.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1211.JPG
+Pastusa,Buena,Mediana,0_0_2_1983.JPG
+R12,Defectuosa,Grande,1_1_1_1215.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1489.JPG
+R12,Defectuosa,Mediana,1_1_2_0813.JPG
+R12,Defectuosa,Mediana,1_1_2_1403.JPG
+R12,Buena,Grande,1_0_1_1358.JPG
+R12,Defectuosa,Grande,1_1_1_1148.JPG
+R12,Defectuosa,Grande,1_1_1_1925.JPG
+R12,Defectuosa,Mediana,1_1_2_0818.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1176.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1248.JPG
+R12,Defectuosa,Grande,1_1_1_1898.JPG
+R12,Defectuosa,Mediana,1_1_2_1404.JPG
+R12,Defectuosa,Grande,1_1_1_1168.JPG
+R12,Defectuosa,Mediana,1_1_2_0855.JPG
+R12,Buena,Grande,1_0_1_1365.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1903.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1904.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1448.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1796.JPG
+R12,Defectuosa,Grande,1_1_1_1350.JPG
+R12,Defectuosa,Grande,1_1_1_1179.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1832.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1907.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1512.JPG
+Pastusa,Buena,Mediana,0_0_2_1530.JPG
+R12,Buena,Grande,1_0_1_2053.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0809.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1941.JPG
+Pastusa,Buena,Mediana,0_0_2_2037.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1477.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1825.JPG
+R12,Buena,Muy Grande,1_0_0_1237.JPG
+R12,Defectuosa,Grande,1_1_1_0789.JPG
+Pastusa,Buena,Mediana,0_0_2_1456.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1781.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1871.JPG
+R12,Buena,Grande,1_0_1_0814.JPG
+Pastusa,Buena,Mediana,0_0_2_1492.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1786.JPG
+R12,Defectuosa,Grande,1_1_1_1221.JPG
+Pastusa,Buena,Mediana,0_0_2_1976.JPG
+R12,Buena,Grande,1_0_1_1361.JPG
+R12,Defectuosa,Grande,1_1_1_1207.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1910.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1495.JPG
+R12,Buena,Mediana,1_0_2_1992.JPG
+Pastusa,Buena,Mediana,0_0_2_1958.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1137.JPG
+Pastusa,Buena,Mediana,0_0_2_2017.JPG
+Pastusa,Buena,Mediana,0_0_2_2034.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1948.JPG
+R12,Buena,Mediana,1_0_2_1395.JPG
+Pastusa,Buena,Mediana,0_0_2_1367.JPG
+Pastusa,Defectuosa,Muy Grande,0_1_0_1806.JPG
+R12,Defectuosa,Grande,1_1_1_0774.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1850.JPG
+R12,Buena,Mediana,1_0_2_1393.JPG
+R12,Defectuosa,Grande,1_1_1_1154.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1885.JPG
+R12,Buena,Grande,1_0_1_0844.JPG
+R12,Defectuosa,Grande,1_1_1_0795.JPG
+R12,Buena,Grande,1_0_1_1357.JPG
+Pastusa,Buena,Grande,0_0_1_1962.JPG
+R12,Defectuosa,Grande,1_1_1_0772.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1802.JPG
+Pastusa,Buena,Mediana,0_0_2_2016.JPG
+Pastusa,Buena,Grande,0_0_1_2020.JPG
+R12,Buena,Grande,1_0_1_2027.JPG
+R12,Buena,Muy Grande,1_0_0_1425.JPG
+R12,Defectuosa,Grande,1_1_1_0801.JPG
+R12,Defectuosa,Grande,1_1_1_0845.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1917.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0828.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1507.JPG
+R12,Defectuosa,Mediana,1_1_2_0870.JPG
+Pastusa,Buena,Mediana,0_0_2_2044.JPG
+R12,Buena,Muy Grande,1_0_0_1189.JPG
+R12,Buena,Grande,1_0_1_1234.JPG
+R12,Defectuosa,Mediana,1_1_2_0860.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1909.JPG
+R12,Defectuosa,Mediana,1_1_2_1891.JPG
+Pastusa,Buena,Mediana,0_0_2_1531.JPG
+R12,Defectuosa,Grande,1_1_1_1163.JPG
+R12,Defectuosa,Grande,1_1_1_0770.JPG
+Pastusa,Buena,Muy Grande,0_0_0_1963.JPG
+R12,Defectuosa,Mediana,1_1_2_1914.JPG
+Pastusa,Buena,Grande,0_0_1_1241.JPG
+R12,Defectuosa,Mediana,1_1_2_1166.JPG
+Pastusa,Buena,Mediana,0_0_2_2041.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1894.JPG
+R12,Buena,Muy Grande,1_0_0_0807.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1912.JPG
+Pastusa,Buena,Mediana,0_0_2_1461.JPG
+R12,Defectuosa,Grande,1_1_1_1146.JPG
+R12,Buena,Muy Grande,1_0_0_0786.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1877.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1212.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1844.JPG
+R12,Defectuosa,Grande,1_1_1_1882.JPG
+R12,Buena,Grande,1_0_1_1354.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1171.JPG
+R12,Defectuosa,Grande,1_1_1_1251.JPG
+Pastusa,Buena,Grande,0_0_1_1960.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1841.JPG
+Pastusa,Buena,Grande,0_0_1_1955.JPG
+R12,Buena,Muy Grande,1_0_0_1428.JPG
+R12,Buena,Mediana,1_0_2_1394.JPG
+R12,Defectuosa,Mediana,1_1_2_0857.JPG
+Pastusa,Buena,Grande,0_0_1_1952.JPG
+Pastusa,Buena,Mediana,0_0_2_1536.JPG
+Pastusa,Buena,Grande,0_0_1_2003.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1170.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1932.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1500.JPG
+R12,Buena,Muy Grande,1_0_0_1205.JPG
+R12,Defectuosa,Mediana,1_1_2_0856.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1164.JPG
+R12,Buena,Grande,1_0_1_2050.JPG
+R12,Buena,Muy Grande,1_0_0_1429.JPG
+R12,Defectuosa,Grande,1_1_1_0831.JPG
+R12,Defectuosa,Grande,1_1_1_1145.JPG
+R12,Buena,Grande,1_0_1_1355.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1945.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1901.JPG
+R12,Defectuosa,Grande,1_1_1_0866.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1819.JPG
+R12,Buena,Muy Grande,1_0_0_1224.JPG
+Pastusa,Buena,Grande,0_0_1_1954.JPG
+R12,Defectuosa,Grande,1_1_1_1537.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1828.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1194.JPG
+Pastusa,Buena,Mediana,0_0_2_1550.JPG
+R12,Buena,Muy Grande,1_0_0_0780.JPG
+Pastusa,Buena,Mediana,0_0_2_1539.JPG
+Pastusa,Buena,Mediana,0_0_2_1479.JPG
+R12,Buena,Mediana,1_0_2_1399.JPG
+R12,Buena,Grande,1_0_1_1249.JPG
+Pastusa,Buena,Mediana,0_0_2_1974.JPG
+R12,Buena,Grande,1_0_1_1231.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1514.JPG
+R12,Buena,Grande,1_0_1_1252.JPG
+R12,Defectuosa,Mediana,1_1_2_1792.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1213.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1795.JPG
+R12,Defectuosa,Grande,1_1_1_1201.JPG
+Pastusa,Buena,Grande,0_0_1_1999.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1818.JPG
+R12,Defectuosa,Grande,1_1_1_0810.JPG
+Pastusa,Buena,Mediana,0_0_2_1363.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1817.JPG
+R12,Buena,Muy Grande,1_0_0_1494.JPG
+R12,Buena,Grande,1_0_1_1398.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1837.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1229.JPG
+Pastusa,Buena,Mediana,0_0_2_2042.JPG
+R12,Defectuosa,Grande,1_1_1_0834.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1902.JPG
+Pastusa,Buena,Mediana,0_0_2_1520.JPG
+R12,Buena,Grande,1_0_1_0832.JPG
+R12,Buena,Muy Grande,1_0_0_1210.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1944.JPG
+R12,Buena,Muy Grande,1_0_0_1482.JPG
+R12,Defectuosa,Grande,1_1_1_1206.JPG
+R12,Defectuosa,Grande,1_1_1_1800.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1839.JPG
+R12,Defectuosa,Mediana,1_1_2_1390.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1900.JPG
+R12,Buena,Muy Grande,1_0_0_0777.JPG
+R12,Buena,Grande,1_0_1_1356.JPG
+Pastusa,Buena,Mediana,0_0_2_1977.JPG
+R12,Defectuosa,Mediana,1_1_2_0836.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0808.JPG
+R12,Defectuosa,Grande,1_1_1_1788.JPG
+R12,Defectuosa,Grande,1_1_1_1197.JPG
+Pastusa,Buena,Mediana,0_0_2_2031.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1929.JPG
+Pastusa,Buena,Mediana,0_0_2_1524.JPG
+Pastusa,Buena,Grande,0_0_1_1971.JPG
+Pastusa,Buena,Mediana,0_0_2_1529.JPG
+Pastusa,Buena,Mediana,0_0_2_1526.JPG
+R12,Buena,Mediana,1_0_2_1994.JPG
+R12,Buena,Grande,1_0_1_2043.JPG
+R12,Defectuosa,Mediana,1_1_2_1374.JPG
+Pastusa,Buena,Mediana,0_0_2_1488.JPG
+Pastusa,Buena,Mediana,0_0_2_1967.JPG
+Pastusa,Buena,Mediana,0_0_2_1458.JPG
+R12,Defectuosa,Grande,1_1_1_1191.JPG
+R12,Defectuosa,Mediana,1_1_2_1835.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1228.JPG
+R12,Defectuosa,Mediana,1_1_2_1400.JPG
+R12,Defectuosa,Grande,1_1_1_1538.JPG
+Pastusa,Buena,Mediana,0_0_2_2052.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1884.JPG
+R12,Buena,Grande,1_0_1_1360.JPG
+R12,Defectuosa,Grande,1_1_1_0846.JPG
+Pastusa,Buena,Mediana,0_0_2_2000.JPG
+R12,Defectuosa,Mediana,1_1_2_1865.JPG
+Pastusa,Buena,Mediana,0_0_2_1985.JPG
+R12,Defectuosa,Grande,1_1_1_0839.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1879.JPG
+R12,Defectuosa,Grande,1_1_1_0851.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1895.JPG
+R12,Defectuosa,Grande,1_1_1_1156.JPG
+R12,Defectuosa,Grande,1_1_1_0852.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1899.JPG
+Pastusa,Buena,Mediana,0_0_2_1454.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1893.JPG
+Pastusa,Buena,Mediana,0_0_2_1563.JPG
+R12,Defectuosa,Mediana,1_1_2_0826.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0824.JPG
+R12,Buena,Grande,1_0_1_1379.JPG
+R12,Defectuosa,Grande,1_1_1_1223.JPG
+R12,Defectuosa,Grande,1_1_1_0800.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1516.JPG
+R12,Defectuosa,Mediana,1_1_2_1836.JPG
+R12,Defectuosa,Mediana,1_1_2_0819.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0825.JPG
+R12,Defectuosa,Grande,1_1_1_1834.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1813.JPG
+R12,Defectuosa,Grande,1_1_1_1927.JPG
+R12,Defectuosa,Grande,1_1_1_0804.JPG
+Pastusa,Buena,Mediana,0_0_2_1491.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1503.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1937.JPG
+R12,Buena,Mediana,1_0_2_1995.JPG
+R12,Buena,Grande,1_0_1_1235.JPG
+R12,Buena,Grande,1_0_1_0875.JPG
+R12,Buena,Grande,1_0_1_0811.JPG
+R12,Defectuosa,Grande,1_1_1_1195.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1464.JPG
+Pastusa,Buena,Mediana,0_0_2_1522.JPG
+R12,Defectuosa,Grande,1_1_1_0782.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1193.JPG
+Pastusa,Buena,Mediana,0_0_2_1462.JPG
+R12,Buena,Grande,1_0_1_1353.JPG
+R12,Defectuosa,Grande,1_1_1_1843.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1805.JPG
+Pastusa,Buena,Mediana,0_0_2_1527.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1849.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1183.JPG
+Pastusa,Buena,Mediana,0_0_2_1467.JPG
+R12,Buena,Grande,1_0_1_1383.JPG
+R12,Buena,Grande,1_0_1_1359.JPG
+Pastusa,Buena,Mediana,0_0_2_2039.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1794.JPG
+Pastusa,Buena,Mediana,0_0_2_2018.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1504.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0876.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0805.JPG
+R12,Defectuosa,Grande,1_1_1_0788.JPG
+Pastusa,Buena,Mediana,0_0_2_1421.JPG
+R12,Defectuosa,Mediana,1_1_2_0863.JPG
+R12,Buena,Grande,1_0_1_2049.JPG
+R12,Buena,Muy Grande,1_0_0_1481.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1508.JPG
+R12,Buena,Mediana,1_0_2_1380.JPG
+R12,Defectuosa,Grande,1_1_1_1217.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1861.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1888.JPG
+R12,Defectuosa,Grande,1_1_1_0841.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1875.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1173.JPG
+R12,Defectuosa,Mediana,1_1_2_1808.JPG
+R12,Defectuosa,Grande,1_1_1_1793.JPG
+R12,Buena,Grande,1_0_1_1246.JPG
+R12,Defectuosa,Grande,1_1_1_1783.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1824.JPG
+Pastusa,Buena,Mediana,0_0_2_1969.JPG
+R12,Defectuosa,Mediana,1_1_2_1378.JPG
+R12,Defectuosa,Mediana,1_1_2_1890.JPG
+R12,Defectuosa,Grande,1_1_1_1157.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1881.JPG
+R12,Defectuosa,Grande,1_1_1_0803.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1182.JPG
+Pastusa,Buena,Mediana,0_0_2_2007.JPG
+Pastusa,Buena,Grande,0_0_1_1240.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1873.JPG
+Pastusa,Buena,Mediana,0_0_2_1975.JPG
+R12,Defectuosa,Grande,1_1_1_0797.JPG
+R12,Defectuosa,Grande,1_1_1_1153.JPG
+Pastusa,Buena,Mediana,0_0_2_1455.JPG
+Pastusa,Defectuosa,Muy Grande,0_1_0_1946.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1141.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1911.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1845.JPG
+R12,Defectuosa,Mediana,1_1_2_1389.JPG
+Pastusa,Buena,Grande,0_0_1_1465.JPG
+R12,Defectuosa,Mediana,1_1_2_1804.JPG
+Pastusa,Buena,Mediana,0_0_2_1472.JPG
+R12,Defectuosa,Mediana,1_1_2_1401.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1857.JPG
+R12,Buena,Mediana,1_0_2_1371.JPG
+R12,Buena,Muy Grande,1_0_0_1202.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1860.JPG
+R12,Buena,Muy Grande,1_0_0_1208.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1478.JPG
+Pastusa,Buena,Grande,0_0_1_1961.JPG
+R12,Defectuosa,Mediana,1_1_2_0861.JPG
+Pastusa,Buena,Mediana,0_0_2_1988.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1446.JPG
+R12,Defectuosa,Mediana,1_1_2_0843.JPG
+R12,Defectuosa,Mediana,1_1_2_1801.JPG
+R12,Defectuosa,Grande,1_1_1_1227.JPG
+R12,Buena,Muy Grande,1_0_0_1493.JPG
+R12,Buena,Grande,1_0_1_0842.JPG
+R12,Buena,Muy Grande,1_0_0_1427.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1798.JPG
+Pastusa,Buena,Mediana,0_0_2_2035.JPG
+R12,Defectuosa,Grande,1_1_1_0820.JPG
+Pastusa,Buena,Grande,0_0_1_1973.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1878.JPG
+R12,Defectuosa,Mediana,1_1_2_1188.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1165.JPG
+R12,Buena,Grande,1_0_1_1387.JPG
+Pastusa,Buena,Mediana,0_0_2_2013.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1826.JPG
+R12,Defectuosa,Grande,1_1_1_1896.JPG
+R12,Buena,Mediana,1_0_2_1382.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1178.JPG
+Pastusa,Buena,Mediana,0_0_2_2008.JPG
+Pastusa,Buena,Mediana,0_0_2_1471.JPG
+R12,Buena,Muy Grande,1_0_0_1216.JPG
+Pastusa,Buena,Mediana,0_0_2_2024.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1515.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1846.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1853.JPG
+Pastusa,Buena,Mediana,0_0_2_1368.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1799.JPG
+R12,Defectuosa,Mediana,1_1_2_0865.JPG
+R12,Defectuosa,Grande,1_1_1_0847.JPG
+R12,Buena,Mediana,1_0_2_1405.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1889.JPG
+R12,Defectuosa,Grande,1_1_1_0785.JPG
+R12,Defectuosa,Mediana,1_1_2_0854.JPG
+R12,Defectuosa,Mediana,1_1_2_1833.JPG
+Pastusa,Buena,Mediana,0_0_2_2046.JPG
+R12,Buena,Mediana,1_0_2_1406.JPG
+R12,Buena,Grande,1_0_1_1373.JPG
+Pastusa,Buena,Mediana,0_0_2_1521.JPG
+Pastusa,Defectuosa,Muy Grande,0_1_0_1887.JPG
+Pastusa,Buena,Grande,0_0_1_2015.JPG
+R12,Defectuosa,Grande,1_1_1_0840.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1490.JPG
+R12,Defectuosa,Mediana,1_1_2_0858.JPG
+Pastusa,Buena,Mediana,0_0_2_1466.JPG
+R12,Buena,Grande,1_0_1_2047.JPG
+Pastusa,Buena,Grande,0_0_1_2004.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1199.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1810.JPG
+Pastusa,Buena,Mediana,0_0_2_1987.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1174.JPG
+Pastusa,Buena,Mediana,0_0_2_2022.JPG
+Pastusa,Buena,Mediana,0_0_2_2005.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1172.JPG
+R12,Defectuosa,Mediana,1_1_2_1874.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1451.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1181.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1498.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1876.JPG
+Pastusa,Defectuosa,Muy Grande,0_1_0_1820.JPG
+R12,Defectuosa,Grande,1_1_1_1169.JPG
+R12,Defectuosa,Grande,1_1_1_0798.JPG
+Pastusa,Buena,Mediana,0_0_2_1989.JPG
+Pastusa,Buena,Mediana,0_0_2_2040.JPG
+R12,Buena,Grande,1_0_1_2012.JPG
+R12,Defectuosa,Grande,1_1_1_1218.JPG
+R12,Defectuosa,Mediana,1_1_2_0827.JPG
+Pastusa,Buena,Mediana,0_0_2_1981.JPG
+Pastusa,Buena,Mediana,0_0_2_1362.JPG
+R12,Defectuosa,Mediana,1_1_2_1386.JPG
+R12,Defectuosa,Grande,1_1_1_0817.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1501.JPG
+Pastusa,Buena,Grande,0_0_1_2014.JPG
+R12,Defectuosa,Mediana,1_1_2_1915.JPG
+Pastusa,Buena,Mediana,0_0_2_1533.JPG
+Pastusa,Buena,Mediana,0_0_2_1562.JPG
+R12,Buena,Mediana,1_0_2_1993.JPG
+R12,Buena,Grande,1_0_1_1352.JPG
+Pastusa,Buena,Mediana,0_0_2_2036.JPG
+Pastusa,Buena,Mediana,0_0_2_2023.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1947.JPG
+R12,Defectuosa,Mediana,1_1_2_0873.JPG
+R12,Defectuosa,Muy Grande,1_1_0_0806.JPG
+Pastusa,Buena,Mediana,0_0_2_1986.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1513.JPG
+Pastusa,Buena,Grande,0_0_1_1951.JPG
+R12,Buena,Grande,1_0_1_1388.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1868.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1184.JPG
+R12,Buena,Grande,1_0_1_1966.JPG
+R12,Buena,Grande,1_0_1_1990.JPG
+R12,Defectuosa,Mediana,1_1_2_1840.JPG
+R12,Defectuosa,Grande,1_1_1_0872.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1230.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1815.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1506.JPG
+Pastusa,Buena,Mediana,0_0_2_1997.JPG
+R12,Defectuosa,Grande,1_1_1_1200.JPG
+R12,Defectuosa,Mediana,1_1_2_1923.JPG
+R12,Buena,Mediana,1_0_2_1396.JPG
+R12,Defectuosa,Mediana,1_1_2_1924.JPG
+R12,Buena,Mediana,1_0_2_1996.JPG
+R12,Buena,Grande,1_0_1_2028.JPG
+R12,Defectuosa,Grande,1_1_1_1863.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1160.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1906.JPG
+R12,Buena,Grande,1_0_1_1968.JPG
+R12,Defectuosa,Mediana,1_1_2_1158.JPG
+R12,Buena,Grande,1_0_1_0815.JPG
+Pastusa,Buena,Mediana,0_0_2_1528.JPG
+R12,Defectuosa,Mediana,1_1_2_1159.JPG
+Pastusa,Defectuosa,Muy Grande,0_1_0_1886.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1858.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1854.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1203.JPG
+R12,Buena,Muy Grande,1_0_0_1222.JPG
+Pastusa,Defectuosa,Grande,0_1_1_1855.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1830.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1247.JPG
+Pastusa,Buena,Mediana,0_0_2_1487.JPG
+Pastusa,Buena,Mediana,0_0_2_1460.JPG
+R12,Defectuosa,Grande,1_1_1_0775.JPG
+Pastusa,Buena,Mediana,0_0_2_1540.JPG
+R12,Buena,Grande,1_0_1_1238.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1797.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1869.JPG
+Pastusa,Buena,Mediana,0_0_2_1984.JPG
+R12,Defectuosa,Grande,1_1_1_1236.JPG
+R12,Defectuosa,Grande,1_1_1_1862.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1139.JPG
+Pastusa,Buena,Mediana,0_0_2_2011.JPG
+R12,Defectuosa,Grande,1_1_1_1926.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1913.JPG
+R12,Defectuosa,Grande,1_1_1_1897.JPG
+Pastusa,Buena,Mediana,0_0_2_2032.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1496.JPG
+R12,Defectuosa,Muy Grande,1_1_0_1144.JPG
+Pastusa,Defectuosa,Mediana,0_1_2_1867.JPG
+Pastusa,Buena,Mediana,0_0_2_2045.JPG
