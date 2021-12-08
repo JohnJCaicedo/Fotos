@@ -1,0 +1,119 @@
+image_path,Tipo,Dano,Tamano,Clase
+/content/Fotos/Imagenes/dataset/0_1_2_1880.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/0_0_2_1487.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_0_1230.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_2_2030.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_1_1832.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_2_0858.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/0_1_2_1477.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_0_0_1210.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/1_0_1_1365.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/1_1_2_0819.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_2_1804.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_2_1492.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_2_1780.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_1_0800.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_1_2053.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_1969.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_1_1910.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/0_1_1_1877.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_0_1904.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_2_1407.JPG,R12,Buena,Mediana,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_1_2009.JPG,Pastusa,Buena,Grande,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_2_1528.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_1_1240.JPG,Pastusa,Buena,Grande,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_2_0823.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_2_1874.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_2_1402.JPG,R12,Buena,Mediana,Clase 3
+/content/Fotos/Imagenes/dataset/1_1_1_1201.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_1_1163.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_2_1391.JPG,R12,Buena,Mediana,Clase 3
+/content/Fotos/Imagenes/dataset/1_1_0_1212.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_1_1241.JPG,Pastusa,Buena,Grande,Clase 1
+/content/Fotos/Imagenes/dataset/1_0_0_1482.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/1_1_1_0852.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_2_1974.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_2_1518.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/1_0_1_1233.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/1_1_1_0789.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_1_2_1827.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/0_1_2_1248.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_0_0876.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1490.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_1_1_1875.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/1_0_2_1380.JPG,R12,Buena,Mediana,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_1540.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_1_0795.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_2_1166.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_1_1252.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_2005.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_0_1946.JPG,Pastusa,Defectuosa,Muy Grande,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_0_1165.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1503.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_2_0854.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_2_2007.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_2_1998.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_2_1781.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_0_0_1244.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_2008.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_2_1865.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_2_0857.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_2_2031.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_2_1893.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_0_1802.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_1_2_1879.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_0_1172.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_2_2016.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_2_1457.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_2_1980.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_2_2013.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_1_1815.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_1_0847.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_1_1_1860.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_1_0799.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1495.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1198.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_2_1374.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_1_1793.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1446.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1213.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1170.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_1_2048.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/1_0_1_2050.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_1983.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_1_1829.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/0_0_1_1951.JPG,Pastusa,Buena,Grande,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_2_1535.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_2_1785.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/0_0_2_2035.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_2_1867.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_0_1181.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_0_1209.JPG,R12,Defectuosa,Muy Grande,Clase 4
+/content/Fotos/Imagenes/dataset/0_1_2_1866.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_0_0_1222.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_1526.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_1_2_1876.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_1_2_0837.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_0_1427.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_1_2_1938.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/0_1_2_1892.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_0_1_2049.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_1471.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_1_1897.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_2_1405.JPG,R12,Buena,Mediana,Clase 3
+/content/Fotos/Imagenes/dataset/0_1_1_1855.JPG,Pastusa,Defectuosa,Grande,Clase 2
+/content/Fotos/Imagenes/dataset/0_0_2_1982.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_1_1245.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_1_1388.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/1_1_2_1833.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_0_1450.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_1967.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/0_0_1_1242.JPG,Pastusa,Buena,Grande,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_1_1221.JPG,R12,Defectuosa,Grande,Clase 4
+/content/Fotos/Imagenes/dataset/1_0_0_1497.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_1_2_1846.JPG,Pastusa,Defectuosa,Mediana,Clase 2
+/content/Fotos/Imagenes/dataset/1_0_0_1494.JPG,R12,Buena,Muy Grande,Clase 3
+/content/Fotos/Imagenes/dataset/1_0_1_1355.JPG,R12,Buena,Grande,Clase 3
+/content/Fotos/Imagenes/dataset/0_0_2_1529.JPG,Pastusa,Buena,Mediana,Clase 1
+/content/Fotos/Imagenes/dataset/1_1_2_0826.JPG,R12,Defectuosa,Mediana,Clase 4
+/content/Fotos/Imagenes/dataset/1_1_2_1401.JPG,R12,Defectuosa,Mediana,Clase 4
